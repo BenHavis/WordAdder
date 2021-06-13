@@ -1,0 +1,30 @@
+#container {
+    width: 60vw;
+    margin: 20% auto;
+}
+
+.button {
+    border-radius: 4px;
+    height: 2em;
+}
+
+#color-picker {
+    height: 1.5em;
+}
+
+ul {
+    list-style: none;
+}
+
+#get-name,
+#enter-word {
+    display: block;
+}
+
+#get-name {
+    margin-top: 1em;
+}
+
+#enter-word {
+    margin-top: 1em;
+}
